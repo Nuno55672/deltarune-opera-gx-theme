@@ -127,14 +127,14 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/video.webm",
+                    "image": "wallpaper/dark_fountain.webm",
                     "first_frame": "wallpaper/first_frame.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/video.webm",
+                    "image": "wallpaper/dark_fountain.webm",
                     "first_frame": "wallpaper/first_frame.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
