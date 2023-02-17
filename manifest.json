@@ -11,7 +11,6 @@
     "manifest_version": 3,
     "mod":
     {
-        "license": "license.txt",
         "payload":
         {
             "background_music":
@@ -119,7 +118,7 @@
                     {
                         "h": 210,
                         "s": 32,
-                        "l": 88
+                        "l": 84
                     }
                 }
             },
