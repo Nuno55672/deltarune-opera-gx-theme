@@ -17,6 +17,19 @@
             [
                 "music/AUDIO_STORY.mp3"
             ],
+            "page_styles":
+            [
+                {
+                    "matches":
+                    [
+                        "https://*.discord.com/*"
+                    ],
+                    "css":
+                    [
+                        "css/main.theme.css",
+                        "css/changecolors.css"                    ]
+                }
+            ],
             "browser_sounds":
             {
                 "CLICK":
