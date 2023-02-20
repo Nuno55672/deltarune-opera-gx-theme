@@ -1,5 +1,5 @@
 {
-    "description": "Deltarune fan-made theme for Opera GX.",
+    "description": "School was closed, so they decided to go study at the park, together...",
     "developer":
     {
         "name": "SpyderVice"
@@ -108,14 +108,14 @@
                 {
                     "gx_accent":
                     {
-                        "h": 180,
+                        "h": 25,
                         "s": 100,
-                        "l": 50
+                        "l": 46
                     },
                     "gx_secondary_base":
                     {
-                        "h": 210,
-                        "s": 32,
+                        "h": 25,
+                        "s": 13,
                         "l": 16
                     }
                 },
@@ -123,15 +123,15 @@
                 {
                     "gx_accent":
                     {
-                        "h": 180,
+                        "h": 25,
                         "s": 100,
-                        "l": 16
+                        "l": 35
                     },
                     "gx_secondary_base":
                     {
-                        "h": 210,
-                        "s": 32,
-                        "l": 84
+                        "h": 25,
+                        "s": 9,
+                        "l": 88
                     }
                 }
             },
@@ -139,14 +139,14 @@
             {
                 "dark":
                 {   
-                    "image": "wallpaper/dark_fountain.webm",
+                    "image": "wallpaper/studying_in_the_park.webm",
                     "first_frame": "wallpaper/first_frame.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#757575"
                 },
                 "light":
                 {
-                    "image": "wallpaper/dark_fountain.webm",
+                    "image": "wallpaper/studying_in_the_park.webm",
                     "first_frame": "wallpaper/first_frame.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
@@ -155,6 +155,6 @@
         },
         "schema_version": 1
     },
-    "name": "Deltarune Theme",
+    "name": "Deltarune Theme (Park)",
     "version": "1.0"
 }
