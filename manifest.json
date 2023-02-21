@@ -1,5 +1,5 @@
 {
-    "description": "Deltarune fan-made theme for Opera GX.",
+    "description": "Your choices don't matter... (Or do they?)",
     "developer":
     {
         "name": "SpyderVice"
@@ -155,6 +155,6 @@
         },
         "schema_version": 1
     },
-    "name": "Deltarune Theme",
+    "name": "Deltarune Theme (Dark Fountain)",
     "version": "1.0"
 }
