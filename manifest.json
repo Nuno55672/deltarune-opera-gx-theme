@@ -27,7 +27,9 @@
                     "css":
                     [
                         "css/main.theme.css",
-                        "css/changecolors.css"                    ]
+                        "css/changecolors.css"/*,
+                        "css/gradient.css"*/                    
+                    ]
                 }
             ],
             "browser_sounds":
