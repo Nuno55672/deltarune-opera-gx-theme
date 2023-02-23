@@ -111,7 +111,7 @@
                     {
                         "h": 180,
                         "s": 100,
-                        "l": 50
+                        "l": 40
                     },
                     "gx_secondary_base":
                     {
@@ -147,8 +147,7 @@
                 },
                 "light":
                 {
-                    "image": "wallpaper/dark_fountain.webm",
-                    "first_frame": "wallpaper/first_frame.png",
+                    "image": "wallpaper/bg_light.jpg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
@@ -156,6 +155,6 @@
         },
         "schema_version": 1
     },
-    "name": "Deltarune Theme (Dark Fountain)",
+    "name": "Deltarune Theme",
     "version": "1.0"
 }
