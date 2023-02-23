@@ -27,8 +27,7 @@
                     "css":
                     [
                         "css/main.theme.css",
-                        "css/changecolors.css"/*,
-                        "css/gradient.css"*/                    
+                        "css/changecolors.css"                
                     ]
                 }
             ],
