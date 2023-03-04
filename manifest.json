@@ -15,7 +15,7 @@
         {
             "background_music":
             [
-                "music/castletown.mp3"
+                "music/AUDIO_STORY.mp3"
             ],
             "page_styles":
             [
@@ -68,6 +68,10 @@
                 "LIMITER_ON":
                 [
                     "sound/limiter_on.mp3"
+                ],
+                "SWITCH_TOGGLE":
+                [
+                    "sound/switch.mp3"
                 ],
                 "TAB_CLOSE":
                 [
