@@ -17,20 +17,6 @@
             [
                 "music/AUDIO_STORY.mp3"
             ],
-            "page_styles":
-            [
-                {
-                    "matches":
-                    [
-                        "https://*.discord.com/*"
-                    ],
-                    "css":
-                    [
-                        "css/main.theme.css",
-                        "css/changecolors.css"            
-                    ]
-                }
-            ],
             "browser_sounds":
             {
                 "CLICK":
@@ -155,7 +141,21 @@
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
-            }
+            },
+            "page_styles":
+            [
+                {
+                    "matches":
+                    [
+                        "https://*.discord.com/*"
+                    ],
+                    "css":
+                    [
+                        "css/main.theme.css",
+                        "css/changecolors.css"            
+                    ]
+                }
+            ]
         },
         "schema_version": 1
     },
