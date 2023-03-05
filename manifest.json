@@ -137,7 +137,8 @@
                 },
                 "light":
                 {
-                    "image": "wallpaper/bg_light.jpg",
+                    "image": "wallpaper/acid_tunnel.webm",
+                    "first_frame": "wallpaper/first_frame_light.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
