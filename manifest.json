@@ -101,13 +101,13 @@
                     {
                         "h": 180,
                         "s": 100,
-                        "l": 40
+                        "l": 50
                     },
                     "gx_secondary_base":
                     {
                         "h": 180,
-                        "s": 18,
-                        "l": 16
+                        "s": 20,
+                        "l": 0
                     }
                 },
                 "light":
@@ -115,13 +115,13 @@
                     "gx_accent":
                     {
                         "h": 116,
-                        "s": 15,
+                        "s": 0,
                         "l": 20
                     },
                     "gx_secondary_base":
                     {
                         "h": 116,
-                        "s": 50,
+                        "s": 0,
                         "l": 88
                     }
                 }
@@ -137,8 +137,7 @@
                 },
                 "light":
                 {
-                    "image": "wallpaper/acid_tunnel.webm",
-                    "first_frame": "wallpaper/first_frame_light.png",
+                    "image": "wallpaper/bg_light.jpg",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
