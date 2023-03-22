@@ -11,6 +11,7 @@
     "manifest_version": 3,
     "mod":
     {
+        "license": "credits.txt",
         "payload":
         {
             "background_music":
